@@ -114,4 +114,6 @@ a.light{
 	color: #006064 !important;
 	text-decoration: underline;
 }
-
+.card .card-action{
+	background-color: #212121;
+}
