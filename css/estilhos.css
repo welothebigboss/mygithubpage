@@ -114,12 +114,4 @@ a.light{
 	color: #006064 !important;
 	text-decoration: underline;
 }
-.card .card-action{
-	background-color: #212121;
-}
-.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating){
-	color: #fafafa;
-}
-.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating):hover{
-	color: #0097a7;
-}
+
