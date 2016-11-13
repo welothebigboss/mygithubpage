@@ -70,9 +70,13 @@ li a:focus{
 #description{
 	text-align: justify;
 }
+
 .card-content.white-text{
 	background-color: #0288d1;
 	border-radius: 2px;
+}
+p.workDescription{
+	text-align: justify;
 }
 .icon-color{
 	color: #0288d1;
