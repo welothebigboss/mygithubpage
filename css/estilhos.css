@@ -73,7 +73,7 @@ li a:focus{
 
 .card-content.white-text{
 	background-color: #0288d1;
-	border-radius: 2px;
+	/*border-radius: 3px;*/
 }
 p.workDescription{
 	text-align: justify;
@@ -121,6 +121,10 @@ a.light{
 	color: #006064 !important;
 	text-decoration: underline;
 }
-.card .card-action{
-	background-color: #212121;
+.card .card-content {
+    padding: 15px;
+    border-radius: 3px;
+}
+.chip{
+	border-radius: 3px;
 }
