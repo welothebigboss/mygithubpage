@@ -119,7 +119,6 @@ a.light{
 }
 .doc a:hover{
 	color: #006064 !important;
-	text-decoration: underline;
 }
 .card .card-content {
     padding: 15px;
